@@ -1,0 +1,17 @@
+commit 8944c193ede23043f39da4ebb38c26aa6c20d97b
+Author: parker-lol <parkerplays404@gmail.com>
+Date:   Fri Oct 2 22:12:09 2026 -0600
+
+    Updated ScoreTrakker.java to include trys and catches, created different score text files. project works successfully
+
+commit 9f20fe537350e03496eb2704b2efb1afbc9eee42
+Author: EknaraD <eknara.dassanayake04@gmail.com>
+Date:   Thu Oct 1 21:27:46 2026 -0600
+
+    Part 1 - initial code (updates to ScoreTrakker and Student)
+
+commit 5e01be9ce02b267eaf2523c42752a02937ec2625
+Author: parker-lol <parkerplays404@gmail.com>
+Date:   Wed Sep 30 12:13:18 2026 -0600
+
+    created initial projects file and classes
